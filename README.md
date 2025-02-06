@@ -6,12 +6,8 @@ Cartagena, Colombia
 Desarrollo Frontend con **HTML, CSS, and JavaScript, React**.
 Desarrollo Backend con **JAVA, Spring, SpringBot**.
 
-### 💬 Ask me about  
-- Environmental life cycle analysis  
-- Quality assurance and control of industrial processes (Oil & Gas)  
-
-### 📫 How to reach me  
-**Email:** [whitneystena418@gmail.com](mailto:whitneystena418@gmail.com)  
+### 📫 Cómo contactarme  
+**Correo Electrónico:** [oherrera84@outlook.com](mailto:oherrera84@outlook.com) -  [oherrerabonilla@gmail.com](mailto:oherrerabonilla@gmail.com)
 
 ### 🛠 Languages and Tools  
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
