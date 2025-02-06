@@ -10,11 +10,13 @@ Cartagena, Colombia
 **Correo Electrónico:** [oherrera84@outlook.com](mailto:oherrera84@outlook.com) -  [oherrerabonilla@gmail.com](mailto:oherrerabonilla@gmail.com).
 **Celular:** 3167829144 / 3239904727
 
-### 🛠 Languages and Tools  
+### 🛠 Lenguajes y Herramientas  
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-- ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)  
+- ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+- ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
 
 ### 🚀 Projects  
 - [Portfolio Website](https://yourportfolio.com) - A showcase of my frontend development projects.  
