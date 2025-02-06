@@ -3,8 +3,8 @@ Ingeniero de sistemas - Desarrollador de Software
 Cartagena, Colombia  
 
 ### 🌱 Actualmente estoy aprendiendo  
-Desarrollo Frontend con **HTML, CSS, and JavaScript, React**.
-Desarrollo Backend con **JAVA, Spring, SpringBot**.
+- Desarrollo Frontend con **HTML, CSS, and JavaScript, React**.
+- Desarrollo Backend con **JAVA, Spring, SpringBot**.
 
 ### 📫 Cómo contactarme  
 **Correo Electrónico:** [oherrera84@outlook.com](mailto:oherrera84@outlook.com) -  [oherrerabonilla@gmail.com](mailto:oherrerabonilla@gmail.com).
