@@ -7,8 +7,8 @@ Desarrollo Frontend con **HTML, CSS, and JavaScript, React**.
 Desarrollo Backend con **JAVA, Spring, SpringBot**.
 
 ### 📫 Cómo contactarme  
-**Correo Electrónico:** [oherrera84@outlook.com](mailto:oherrera84@outlook.com) -  [oherrerabonilla@gmail.com](mailto:oherrerabonilla@gmail.com)
-**Correo Electrónico:** [316 782 9144 / 323 990 4727]
+**Correo Electrónico:** [oherrera84@outlook.com](mailto:oherrera84@outlook.com) -  [oherrerabonilla@gmail.com](mailto:oherrerabonilla@gmail.com).
+**Celular:** 3167829144 / 3239904727
 
 ### 🛠 Languages and Tools  
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
