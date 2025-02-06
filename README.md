@@ -2,8 +2,9 @@
 Ingeniero de sistemas - Desarrollador de Sofware 
 Cartagena, Colombia  
 
-### 🌱 I’m currently learning  
+### 🌱 Actualmente estoy aprendiendo  
 Desarrollo Frontend con **HTML, CSS, and JavaScript, React**.
+Desarrollo Backend con **JAVA, Spring, SpringBot**.
 
 ### 💬 Ask me about  
 - Environmental life cycle analysis  
